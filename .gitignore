@@ -6,3 +6,10 @@ build
 **/__pycache__/
 **/*.egg-info
 *.pyc
+
+corr_ref_data/
+filtered/
+OUTLIER-CHECK/
+outliers.txt
+ETL-EXCLUDED-INDEX.dat
+examples/raw_corr_iqa/
